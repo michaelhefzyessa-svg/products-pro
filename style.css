@@ -1,0 +1,372 @@
+.navbar {
+    background-color: rgb(213, 240, 33);
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;         
+    left: 0;     
+    height: 20vh;  
+   
+}
+
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+.hero-section{ 
+ 
+    width: 100%;
+    margin-top: 150px;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+     text-align: center;
+     text-transform: uppercase;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     
+     
+}
+
+.hero-section h1{
+    color: rgb(122, 5, 5);
+}
+
+.hero-section button{
+    color: blue;
+    border-radius: 10px;
+}
+
+.hero-section span{
+    color: white;
+}
+
+
+
+.pro1{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+
+.name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color: brown;
+    font-weight: bolder;
+    font-size: 18px;
+}
+.pro1 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+
+
+.pro2{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+
+.pro2 .name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color: rgb(246, 91, 14);
+    font-weight: bolder;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.pro2 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+
+.pro3{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+
+.pro3 .name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color: rgba(59, 12, 212, 0.968);
+    font-weight: bolder;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.pro3 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+
+.pro4{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+
+.pro4 .name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color: rgb(242, 232, 232);
+    font-weight: bolder;
+    font-size: 18px;
+}
+.pro4 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+.pro5{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.pro5 .img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+.pro5 .name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color:black;
+    font-weight: bolder;
+    font-size:18px;
+}
+    
+
+
+.pro5 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+
+
+
+.pro6{
+    position: relative;
+    width: 400px;
+}
+ .main{
+    width: 100%;
+    
+}
+.img2{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+.new{
+    position: absolute;
+   top: 0px;
+   right: 40px;
+}
+
+.pro6 .name{
+    position: absolute;
+    bottom: 0px;
+    LEFT: 90PX;
+    color: rgb(247, 238, 238);
+    font-weight: bolder;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.pro6 button{
+    position: absolute;
+    bottom: 5px;
+    background-color: rgb(6, 98, 236);
+    border-radius: 10PX;
+    color: white;
+   
+}
+.disc{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+.offer{
+
+    background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+text-align: center;
+}
+
+.offer span{
+    color: white;
+    font-size: 25px;
+    border: 2px solid rgb(132, 161, 3);
+}
+
+.whatsapp-btn-container{
+        position: fixed;
+        right: 30px;
+        bottom: -20px;
+        padding: 24px;
+    }
+   
+    .whatsapp-btn-container .whatsapp-btn {
+        font-size: 48px;
+        color: #25d366;
+       
+    }
+    
+    .whatsapp-btn-container span {
+        position: absolute;
+        top: 0;
+        left: 4px;
+        font-family: "Roboto", sans-serif;
+        font-weight: bold;
+        color: #075e54;
+     
+    }
+
+    .offer button{
+        background-color: #EEAECA;
+        text-shadow: 1px 1px rgb(213, 101, 101);
+      
+    }
+    .footer{
+        background: #020024;
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+        text-align: center;
+        color: white;
+        height: 80px;
+    }
+    .footer p{
+        padding-top: 20px;
+    }
+    
+
+
